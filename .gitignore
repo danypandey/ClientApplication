@@ -1,0 +1,12 @@
+.vs/
+
+*.cache
+
+*.p7s
+
+*.nupkg
+packages/
+
+*.dll
+
+Debug/
